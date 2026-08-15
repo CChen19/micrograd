@@ -1,0 +1,8 @@
+# Project deps for local learning / notebooks / tests
+graphviz
+jupyter
+pytest
+torch
+numpy
+matplotlib
+scikit-learn
